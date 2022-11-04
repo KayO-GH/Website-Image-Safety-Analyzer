@@ -10,4 +10,7 @@ pinned: false
 license: apache-2.0
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Website Image Safety Analyzer
+Currently serving from [🤗 Spaces][def]
+
+[def]: https://huggingface.co/spaces/KayO/WebsiteImageSafetyAnalyzer
