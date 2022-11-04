@@ -56,6 +56,7 @@ description = "**The internet is not safe for children**. Even if we know the 'b
                 "This is step one in an attempt to solve that. An image classifier that audits every image at a URL.  \n"+\
                 "In this iteration, I classify sites with sexually explicit content as **'NOT safe'**.  \n\n"+\
                 "There is a long way to go with NLP for profanity, cyber-bullying, as well as CV for violence, substance abuse, etc.  \n"+\
+                "Another step will be to convert this into a browser extension/add-on.  \n"+\
                 "I welcome any help on this. 🙂"
 examples = ['porhub.com', 'cnn.com', 'xvideos.com', 'www.pinterest.com']
 enable_queue=True
