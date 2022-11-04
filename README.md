@@ -1,6 +1,6 @@
 ---
-title: WebsiteImageSafetyAnalyzer
-emoji: 📈
+title: Website Image Safety Analyzer
+emoji: 🧐
 colorFrom: blue
 colorTo: yellow
 sdk: gradio
