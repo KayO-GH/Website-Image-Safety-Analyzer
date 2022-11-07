@@ -11,6 +11,4 @@ license: apache-2.0
 ---
 
 # Website Image Safety Analyzer
-Currently serving from [🤗 Spaces][def]
-
-[def]: https://huggingface.co/spaces/KayO/WebsiteImageSafetyAnalyzer
+https://huggingface.co/spaces/KayO/WebsiteImageSafetyAnalyzer
